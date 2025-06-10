@@ -1,11 +1,12 @@
 # Kalapad
 
-<img src="assets/kalapad.png" height="250"><img src="assets/assembly.png" height="250">
+<img src="assets/kalapad.png" height="300"><img src="assets/assembly.png" height="300">
 
 *A custom QMK-based 9 key macropad*
 
 ## Features
 
+- 9 programmable macro switches
 - Cherry MX Switch compatibility
 - SK6812-E RGB LED indicator light
 - EC11 Rotary Encoder for volume control
