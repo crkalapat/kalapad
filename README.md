@@ -28,7 +28,6 @@
 - 1x EC11 Rotary Encoder
 - 1x Seeed Studio XIAO RP2040
 - 3x M3x16mm screws
+- 1x M3x4mm screw
 - 1x 3D-Printed Case (Top and Bottom)
 - 1x PCB
-
-Optionally if desired, there is an extra screw hole on the top left for a M3x4mm screw. Kalapad can be safely mounted and used without it though.
