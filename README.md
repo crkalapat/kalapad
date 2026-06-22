@@ -1,8 +1,8 @@
 # Kalapad
 
-<img src="assets/kalapad.png" height="300"><img src="assets/assembly.png" height="300">
+<img src="assets/kalapad-assembled.jpeg" height="300"><img src="assets/kalapad.png" height="300"><img src="assets/assembly.png" height="300">
 
-*A custom QMK-based 9 key macropad*
+_A custom QMK-based 9 key macropad_
 
 ## Features
 
@@ -22,7 +22,8 @@ https://github.com/user-attachments/assets/4e5cf57b-7511-4118-89fe-79310d505cb6
 
 <img src="assets/pcb.png" height="350">
 
-### Schematic 
+### Schematic
+
 <img src="assets/schematic.png" height="250">
 
 ## BOM
