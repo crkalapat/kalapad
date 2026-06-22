@@ -12,6 +12,10 @@
 - EC11 Rotary Encoder for volume control
 - Matrix-style switch layout
 
+## Demo
+
+https://github.com/user-attachments/assets/4e5cf57b-7511-4118-89fe-79310d505cb6
+
 ## Design
 
 ### PCB
